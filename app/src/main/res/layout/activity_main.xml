@@ -21,7 +21,7 @@
         android:layout_height="?actionBarSize"
         android:fitsSystemWindows="true"
         android:minHeight="?attr/actionBarSize"
-        android:theme="@style/Theme.SceneViewSample.Toolbar"
+        android:theme="@style/Theme.ArCloudAnchorSample.Toolbar"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
